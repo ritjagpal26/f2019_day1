@@ -16,7 +16,12 @@ public class FirstDay
         int y=x+1;
 
         System.out.println("Y :"+y);
-        
+
+
+        Student s1 = new Student();
+        s1.setvalue();
+        s1.display();
+
 
     }
 }
